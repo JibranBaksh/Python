@@ -1,3 +1,3 @@
-print("Hello World \n THe world is awesome")
-print("The world is awesome")
+print("Hello World \nThe world is awesome")
+print("Today is a new day")
 
